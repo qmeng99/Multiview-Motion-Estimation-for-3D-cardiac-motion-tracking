@@ -3,7 +3,7 @@ Code for paper ''MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Mul
 
 
 <p align="center">
-    <img src="framework.png" width="85%" height="85%">
+    <img src="framework.png" width="100%" height="100%">
 </p>
 
 
