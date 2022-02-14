@@ -16,7 +16,6 @@ title = {MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Multi-View 
 journal = {IEEE Transactions on Medical Imaging},
 year = {2022},
 author = {Qingjie Meng and Chen Qin and Wenjia Bai and Tianrui Liu and Antonio de Marvao and Declan P O'Regan and Daniel Rueckert},
-year = {2020},
 publisher = {IEEE},
 }
 ```
