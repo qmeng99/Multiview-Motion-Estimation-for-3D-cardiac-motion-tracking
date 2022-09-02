@@ -6,7 +6,6 @@ Code for paper ''MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Mul
     <img src="framework.png" width="100%" height="100%">
 </p>
 
-
 # Citation and Acknowledgement
 
 If you make use of the code, or if you found the code useful, please cite the paper in any resulting publications.
